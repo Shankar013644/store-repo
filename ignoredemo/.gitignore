@@ -1,0 +1,7 @@
+#dont track below files
+abc.txt
+#dont track all text files
+*.txt
+#dont tarck logs directory
+logs/
+#dont tract hiddenfiles
